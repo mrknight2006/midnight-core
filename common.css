@@ -1,0 +1,11 @@
+:root {
+  --accent: #00d0ff;
+  --bg-dark: #071022;
+  --bg-light-start: #f7f9fc;
+  --bg-light-end: #e3e7ef;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Roboto, sans-serif;
+}

@@ -1,0 +1,15 @@
+/* Dark mode */
+body {
+  background: var(--bg-dark);
+  color: #d8eef6;
+}
+
+/* Light mode */
+body.light {
+  background: linear-gradient(180deg, var(--bg-light-start), var(--bg-light-end));
+  color: #072033;
+}
+
+.accent {
+  color: var(--accent);
+}

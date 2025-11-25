@@ -1,0 +1,24 @@
+{
+  "system": {
+    "theme": "dark",
+    "lastUpdate": "2025-11-25T18:40:00Z"
+  },
+  "stats": {
+    "level": 1,
+    "xp": {
+      "current": 0,
+      "next": 100
+    },
+    "streak": {
+      "days": 0,
+      "lastCompleted": null
+    }
+  },
+  "skills": {
+    "physics": { "score": 70, "trend": 0 },
+    "maths": { "score": 70, "trend": 0 },
+    "pc": { "score": 70, "trend": 0 },
+    "ic": { "score": 70, "trend": 0 },
+    "oc": { "score": 70, "trend": 0 }
+  }
+}
